@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 94.83 239.99">
+  <defs>
+    <linearGradient id="linear-gradient" x1="83.73" y1="14.43" x2="64.41" y2="237.57" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#44bb8b"/>
+      <stop offset=".11" stop-color="#3eb588"/>
+      <stop offset=".26" stop-color="#2ea480"/>
+      <stop offset=".42" stop-color="#168a75"/>
+      <stop offset=".64" stop-color="#1a6576"/>
+      <stop offset=".86" stop-color="#174161"/>
+      <stop offset=".99" stop-color="#173058"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="19.1" y1="16.13" x2="67.4" y2="238.23" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#daeccf"/>
+      <stop offset=".08" stop-color="#d6eacd"/>
+      <stop offset=".15" stop-color="#cae6c8"/>
+      <stop offset=".22" stop-color="#b7dfc0"/>
+      <stop offset=".28" stop-color="#9cd5b4"/>
+      <stop offset=".35" stop-color="#7ac9a5"/>
+      <stop offset=".36" stop-color="#75c7a3"/>
+      <stop offset=".45" stop-color="#61c4ac"/>
+      <stop offset=".63" stop-color="#2ebfc5"/>
+      <stop offset=".66" stop-color="#24becb"/>
+      <stop offset=".74" stop-color="#1faabc"/>
+      <stop offset=".88" stop-color="#147797"/>
+      <stop offset="1" stop-color="#0b4976"/>
+    </linearGradient>
+  </defs>
+  <path d="m93.46,7.77s-41.53-4.32-41.53,27.23v183.83s-.51,14.38-13.36,21.11h52.26s3.23.17,3.74-2.81,0-17.36,0-17.36c0,0-.09-2.98-2.81-2.81s-10.72.17-10.72.17c0,0-3.83-.17-3.83-6.21V37.98s.3-7.34,7.89-7.4,6.77-.06,6.77-.06c0,0,2.62-.45,2.62-3.06s.31-17.87.31-17.87c0,0,.39-1.77-1.33-1.81Z" style="fill: url(#linear-gradient); stroke-width: 0px;"/>
+  <path d="m84.33,7.69H8.19S.85,7.21.65,12.89s0,15.19,0,15.19c0,0,.51,3.26,4.47,3.26s11.74-.32,11.68,11.04,0,165.89,0,165.89c0,0,.06,8.94-5.3,8.94H3.85s-3.83.13-3.83,3.19v15.57s-.51,3.83,4.34,3.96,34.21,0,34.21,0c0,0,11.79-5.57,13.36-21.11l.05-185.67s0-25.46,32.35-25.46Z" style="fill: url(#linear-gradient-2); stroke-width: 0px;"/>
+</svg>
