@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import DarkModeSwitch from './darkModeSwitch';
-import Logo from '../../public/assets/icon/logo.svg'
+import Logo from '../../public/logo.svg'
 
 function Header() {
     const [burgerClass, setBurgerClass] = useState('burger-bar');
