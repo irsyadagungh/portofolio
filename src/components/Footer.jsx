@@ -29,10 +29,10 @@ function Footer() {
                     <div className="felx w-full md:w-1/3 flex-col">
                         <h1 className="text-bone mb-4 text-2xl">Website Pages</h1>
                         <span className="flex flex-col text-bone">
-                            <a className="hover:text-light-primary duration-200" href="#about">About</a>
-                            <a className="hover:text-light-primary duration-200" href="#experience">Experiences</a>
-                            <a className="hover:text-light-primary duration-200" href="#project">Projects</a>
-                            <a className="hover:text-light-primary duration-200" href="#skill">Skills</a>
+                            <a className="hover:text-light-primary duration-200 w-fit" href="#about">About</a>
+                            <a className="hover:text-light-primary duration-200 w-fit" href="#experience">Experiences</a>
+                            <a className="hover:text-light-primary duration-200 w-fit" href="#project">Projects</a>
+                            <a className="hover:text-light-primary duration-200 w-fit" href="#skill">Skills</a>
                         </span>
                     </div>
 
