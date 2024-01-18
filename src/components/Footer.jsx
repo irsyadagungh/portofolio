@@ -5,7 +5,7 @@ function Footer() {
         <section className="bg-dark-primary h-fit pt-16 dark:bg-dark-bone">
             <div className="container  flex flex-col gap-10 md:gap-0 px-10 md:px-0 flex-wrap justify-evenly">
                 {/* Div atas */}
-                <div className="flex justify-evenly w-full mb-8">
+                <div className="flex justify-evenly flex-wrap gap-8 md:gap-0 w-full mb-8">
                         {/* First Div */}
                     <div className="felx w-full md:w-1/3 flex-col">
                         <h1 className="text-bone mb-4 text-2xl">Business Inquiries 📨</h1>
